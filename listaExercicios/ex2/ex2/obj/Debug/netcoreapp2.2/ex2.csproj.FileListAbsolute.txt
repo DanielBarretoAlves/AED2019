@@ -1,0 +1,11 @@
+/Users/MonteiroMaker/Desktop/listaExercicios/ex2/ex2/bin/Debug/netcoreapp2.2/ex2.deps.json
+/Users/MonteiroMaker/Desktop/listaExercicios/ex2/ex2/bin/Debug/netcoreapp2.2/ex2.runtimeconfig.json
+/Users/MonteiroMaker/Desktop/listaExercicios/ex2/ex2/bin/Debug/netcoreapp2.2/ex2.runtimeconfig.dev.json
+/Users/MonteiroMaker/Desktop/listaExercicios/ex2/ex2/bin/Debug/netcoreapp2.2/ex2.dll
+/Users/MonteiroMaker/Desktop/listaExercicios/ex2/ex2/bin/Debug/netcoreapp2.2/ex2.pdb
+/Users/MonteiroMaker/Desktop/listaExercicios/ex2/ex2/obj/Debug/netcoreapp2.2/ex2.csprojAssemblyReference.cache
+/Users/MonteiroMaker/Desktop/listaExercicios/ex2/ex2/obj/Debug/netcoreapp2.2/ex2.csproj.CoreCompileInputs.cache
+/Users/MonteiroMaker/Desktop/listaExercicios/ex2/ex2/obj/Debug/netcoreapp2.2/ex2.AssemblyInfoInputs.cache
+/Users/MonteiroMaker/Desktop/listaExercicios/ex2/ex2/obj/Debug/netcoreapp2.2/ex2.AssemblyInfo.cs
+/Users/MonteiroMaker/Desktop/listaExercicios/ex2/ex2/obj/Debug/netcoreapp2.2/ex2.dll
+/Users/MonteiroMaker/Desktop/listaExercicios/ex2/ex2/obj/Debug/netcoreapp2.2/ex2.pdb

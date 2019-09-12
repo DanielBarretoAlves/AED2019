@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/MonteiroMaker/Desktop/listaExercicios/Desafio-ex7-2-ex17/Desafio-ex7-2-ex17/Desafio-ex7-2-ex17.csproj": {}
+  },
+  "projects": {
+    "/Users/MonteiroMaker/Desktop/listaExercicios/Desafio-ex7-2-ex17/Desafio-ex7-2-ex17/Desafio-ex7-2-ex17.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/MonteiroMaker/Desktop/listaExercicios/Desafio-ex7-2-ex17/Desafio-ex7-2-ex17/Desafio-ex7-2-ex17.csproj",
+        "projectName": "Desafio-ex7-2-ex17",
+        "projectPath": "/Users/MonteiroMaker/Desktop/listaExercicios/Desafio-ex7-2-ex17/Desafio-ex7-2-ex17/Desafio-ex7-2-ex17.csproj",
+        "packagesPath": "/Users/MonteiroMaker/.nuget/packages/",
+        "outputPath": "/Users/MonteiroMaker/Desktop/listaExercicios/Desafio-ex7-2-ex17/Desafio-ex7-2-ex17/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/MonteiroMaker/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

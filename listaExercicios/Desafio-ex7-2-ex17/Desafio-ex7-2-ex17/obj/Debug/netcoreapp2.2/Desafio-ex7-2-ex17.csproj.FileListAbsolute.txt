@@ -1,0 +1,11 @@
+/Users/MonteiroMaker/Desktop/listaExercicios/Desafio-ex7-2-ex17/Desafio-ex7-2-ex17/obj/Debug/netcoreapp2.2/Desafio-ex7-2-ex17.csprojAssemblyReference.cache
+/Users/MonteiroMaker/Desktop/listaExercicios/Desafio-ex7-2-ex17/Desafio-ex7-2-ex17/obj/Debug/netcoreapp2.2/Desafio-ex7-2-ex17.csproj.CoreCompileInputs.cache
+/Users/MonteiroMaker/Desktop/listaExercicios/Desafio-ex7-2-ex17/Desafio-ex7-2-ex17/obj/Debug/netcoreapp2.2/Desafio-ex7-2-ex17.AssemblyInfoInputs.cache
+/Users/MonteiroMaker/Desktop/listaExercicios/Desafio-ex7-2-ex17/Desafio-ex7-2-ex17/obj/Debug/netcoreapp2.2/Desafio-ex7-2-ex17.AssemblyInfo.cs
+/Users/MonteiroMaker/Desktop/listaExercicios/Desafio-ex7-2-ex17/Desafio-ex7-2-ex17/bin/Debug/netcoreapp2.2/Desafio-ex7-2-ex17.deps.json
+/Users/MonteiroMaker/Desktop/listaExercicios/Desafio-ex7-2-ex17/Desafio-ex7-2-ex17/bin/Debug/netcoreapp2.2/Desafio-ex7-2-ex17.runtimeconfig.json
+/Users/MonteiroMaker/Desktop/listaExercicios/Desafio-ex7-2-ex17/Desafio-ex7-2-ex17/bin/Debug/netcoreapp2.2/Desafio-ex7-2-ex17.runtimeconfig.dev.json
+/Users/MonteiroMaker/Desktop/listaExercicios/Desafio-ex7-2-ex17/Desafio-ex7-2-ex17/bin/Debug/netcoreapp2.2/Desafio-ex7-2-ex17.dll
+/Users/MonteiroMaker/Desktop/listaExercicios/Desafio-ex7-2-ex17/Desafio-ex7-2-ex17/bin/Debug/netcoreapp2.2/Desafio-ex7-2-ex17.pdb
+/Users/MonteiroMaker/Desktop/listaExercicios/Desafio-ex7-2-ex17/Desafio-ex7-2-ex17/obj/Debug/netcoreapp2.2/Desafio-ex7-2-ex17.dll
+/Users/MonteiroMaker/Desktop/listaExercicios/Desafio-ex7-2-ex17/Desafio-ex7-2-ex17/obj/Debug/netcoreapp2.2/Desafio-ex7-2-ex17.pdb
