@@ -1,0 +1,17 @@
+TESTE:1
+POSTO:0.6
+PASTEL:34
+CINEMA:120
+BURGERKING:55.9
+-----FEV-----
+E:21
+C:10
+D:11
+O:12
+S:9
+-----MARC----
+1:1
+1:1
+1:1
+1:1
+1:1
