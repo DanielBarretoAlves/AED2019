@@ -1,33 +1,24 @@
 using System;
-using System.Collections.Generic;
-
-
 
 class MainClass {
   public static void Main (string[] args) {
-
-    Cartao meuCard = new Cartao(350);
-    Maquina maquininha = new Maquina("CINEMA");
-    
-    if (maquininha.inserirCartao(45, meuCard)){
-      if(meuCard.validarSenha() == true)
+    int[,] myArray = new int [5,2];
+    for(int i = 0; i < 5; i++)
+    {
+      for(int j = 0; j < 2; j++)
       {
-        Console.Clear();
-        Console.WriteLine("COMPRA REALIZADA");
-
-      }else{
-        Console.Clear();
-        Console.WriteLine("SENHA INVALIDA");
+        Console.WriteLine("Informe o numero");
+        myArray[i, j] = int.Parse(Console.ReadLine());
       }
-      
-      
     }
-    else{
-      Console.WriteLine("COMPRA NEGADA");
-    }
-  
-    
-   
 
+    for(int i = 0; i < 5; i++)
+    {
+      for(int j = 0; j < 2; j++)
+      {
+        Console.Write(myArray[i, j] + " ");
+      }
+      Console.WriteLine(" ");
+    }
   }
 }
